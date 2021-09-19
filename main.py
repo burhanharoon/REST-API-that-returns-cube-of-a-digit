@@ -4,7 +4,7 @@ app.config['JSON_SORT_KEYS'] = False
 
 @app.route("/")
 def intro():
-    return "<p>&copy This API was created by Burhan Haroon</p>"
+    return "<p>&copy This API was created by <strong>Burhan Haroon</strong></p>"
 
 @app.route("/cube/<int:n>")
 def cube(n):
