@@ -1,9 +1,14 @@
 # I created a RESTful API using Pyhton and Flask that simply returns the square and cube of a number.
 ## In order to run this API in your browser:
-    *   You need to have Python installed in your PC.
-    *   You should install Flask using the command ```pip install flask```
-    *   Run this by typing ```python main.py``` in the program's directory.
+ - You need to have Python installed in your PC.
+ - You should install Flask using the command `pip install flask`
+ - Run this by typing `python main.py` in the program's directory.
 
-## Routes:
-    *   "/" will be return the homepage of the API.
-    *   "/cube/```number```" will return the processed results on the given number.
+## Routes
+ - " / " will be return the homepage of the API.
+ 
+ ![API Home Screen](https://lh3.googleusercontent.com/YgcMNKznjbX-4YxM6-e9moABJj1ecX4qqz-XSZYMQ7lJJtrCL4I0pnODtMIFCXRYxadwDldbKIiWSOdRFpCBAI5zwM2hHlKooJJgUqGOuziwMjxAmffAb4vI3eiAo20H9BEhT3RAIYcNOeTtXgPHHHWcekp1YPWysHtBBfa0cWsRKcMWogEBHu56WTGYV9DkoMoH1Nd1JliL8qPQjvEhHlC88sc1JkSH4XqbMAOHu9ovtPStpENJBX7qThUgARhe-cyL5sKCEWcLKTQ7y3vQy83-0d1hVr44M7ICwPl8aHnmlDGuKN7BZvXhcjDkfgAuwwGeGUbXDBc-qkty5nvTeqQ9pYtVYcBUE9yitRR4C-8w0-qJnW1VNVWwDQU6wfww9l9CQ22_brZemTrNXiJY6e0qY86vZbOc3k_ic49L35iPq4zwwjuoZazScBpyRZWx46Byd6u-f8xmvvRkJQRIKOvGPi1HilBhekIU5xBWrMz4uEn21wB2sSsjrQFM8zetZ5MLeyY8oBpMq9EAJI-94m7YLRTQMRO6CpFWP69gHJKkyFZ-2fWw16cBAfY_S3FoFT3V4RwPB3J6KszDvWRpFoExgKdaurujJASgr9AVpTJ2i2eQzJuHMf5BbQMKapz0mDgLzBSWl7UjRKxUI-IoBsfgzIWGWxtOWFm52bQyouD2cbU0tDFroscz7VuqHe0QwcmzBYpgVk7MQsfKTK_ZYRc=w605-h455-no?authuser=0) 
+ 
+ -  " /cube/```number``` " will return the processed results on the given number.
+
+![API showing results for a random number](https://lh3.googleusercontent.com/vKxyk13XfmR4ivfXzbDME1mvpQ6BnfXYwbJS76hsAViuQ7FRK2r-EiVQvOqBN1dOa2UJwdTBgQ0VfmUrL10GRjtoOln5WiJDMfG55Viw81L2GzuHzwA4D_g3R9IckPYxIReX-8Z2NRE-kDTVM468ZLnndsQjm1mGLzcN4fHTbI451KNySS4p_bLsHfc2UQtFHj1g0qkyBA7kKRj61zSLir7r2kAcBGuV-86Dt-Gs0DMmERziyZpPg-qL0Hp3Ee_HqxuRRpXD8GfF81K9lDYRxpLph76s-myqQrbmQfMQBpfJCV9E-JbR_t2TJCn2HGVUOGiU25pvtRf6FEDLpLclSxbkD1ST6VhUjVppB0JxuSlKdLiElGzCfcJD1cHtf8kFzqkR4Ckm51N2i53GVnMte0DSoGtd5uzkMx0qYUy4HbvOCUASM-8z2k8c-9lxju_k5Wb72k8-nagzkQd0faw7xs2vm_pJauyZXVHl7e_jI7lnVH9Q0yOpqJOsFUVLO8_IRlmr_MQ8CodHZhjvxJAvTbircjkCfsTU7E1GX-Mft7e-XR6mbgiQBs7gdjqbpTx9Qc5W5DauJq2fUX0iypWPhyf3p1Dz0nkQlPpU53U7ZAcl9HXTk8Cs5jqYCwa2-DKmsOPDJz0Q2BtIiElCLL1esnIplo7yRM7TcQsF4lkwCVFVKLK2lI3HVBx4H9kQl2YYgOklbZF90YwcrRNMmRYq46s=w605-h455-no?authuser=0)
